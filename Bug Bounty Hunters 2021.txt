@@ -1,0 +1,11 @@
+https://github.com/danielmiessler/SecLists
+https://github.com/HolyBugx/HolyTips
+https://github.com/dwisiswant0/awesome-o...-bugbounty
+https://github.com/1ndianl33t/Bug-Bounty-Roadmaps
+https://github.com/sehno/Bug-bounty
+https://github.com/daffainfo/AllAboutBugBounty
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+https://github.com/KathanP19/HowToHunt
+https://skeletonscribe.net/
+https://secnhack.in/#sidr-nav
+https://gowsundar.gitbook.io/book-of-bug...tic-search
