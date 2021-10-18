@@ -1,0 +1,4 @@
+Sau khi cai Kali ma khong nhan Wiless ta dung lenh
+rfkill unblock all
+
+
